@@ -1,17 +1,17 @@
-# Systems-Analysis-Design
-Business Requirements &amp; Systems Design Documents // Client - DriverPass
-Tricia Ann Sribonma
-CS-255-R3272 24EW3
-Southern New Hampshire University
-8-2: Portfolio Submission
+# Systems-Analysis-Design<br>
+Business Requirements &amp; Systems Design Documents // Client - DriverPass<br>
+Tricia Ann Sribonma<br>
+CS-255-R3272 24EW3<br>
+Southern New Hampshire University<br>
+8-2: Portfolio Submission<br><br>
 
 
-Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+<b>Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?</b><br><br>
 
-What did you do particularly well?
+<b>What did you do particularly well?</b><br><br>
 
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+<b>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</b><br><br>
 
-How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+<b>How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?</b><br><br>
 
-How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+<b>How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?</b><br><br>
