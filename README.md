@@ -12,7 +12,7 @@ In the realm of the DriverPass project, our task was to craft a cutting-edge sys
 In reflecting on our work, the shining beacon lies in our acute attention to user roles, fortified security protocols, and an astute cloud-based architecture. However, envisioning a stellar future involves refining our delineation of potential constraints and fortifying these aspects. By providing clearer distinctions between user roles and meticulous exploration of security measures, we aim to propel the system's robustness to new heights, ensuring DriverPass thrives in the fast lane of user satisfaction.
 
 <hr>
-<h2><b>What did you do particularly well?</b></h2><br><br>
+<b>What did you do particularly well?</b><br><br>
 
 <hr>
 <b>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</b><br><br>
